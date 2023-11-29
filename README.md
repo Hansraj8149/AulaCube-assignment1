@@ -22,11 +22,17 @@ Tailwind CSS
 Sorted tasks based on priority
 
 ## TaskList Page 
-![Screenshot (100)](https://github.com/Hansraj8149/AulaCube-assignment1/assets/91865531/2604b2ff-4804-40ed-a070-72ce70dc7d0d)
+![Screenshot (103)](https://github.com/Hansraj8149/AulaCube-assignment1/assets/91865531/e1844d35-3e9c-4fb0-a9fc-ae807b9d33b9)
+
 
 ## AddTaskList Page
-![Screenshot (101)](https://github.com/Hansraj8149/AulaCube-assignment1/assets/91865531/0b554ace-3f92-4221-a7ff-d118b9ae3b57)
+![Screenshot (104)](https://github.com/Hansraj8149/AulaCube-assignment1/assets/91865531/f3ba6fff-cb08-4d37-b6d1-bb1f761bce0f)
+
 
 ## EditTaskList Page
+![Screenshot (105)](https://github.com/Hansraj8149/AulaCube-assignment1/assets/91865531/09099cb8-afa4-4376-96b7-5a7f755c4308)
+
+
+
 
 
